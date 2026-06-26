@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheOfficeButton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81ffb1e1012a903c69770c95d12332d06a71e2b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2791824139e8548b939fc0e150b55b5df73fcc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheOfficeButton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheOfficeButton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

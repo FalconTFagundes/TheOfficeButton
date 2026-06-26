@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{840C7423-55C9-3144-0441-E34CEFA5E055}|TheOfficeButton.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{840C7423-55C9-3144-0441-E34CEFA5E055}|TheOfficeButton.csproj|c:\\users\\rafael.souza\\desktop\\theofficebutton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{840C7423-55C9-3144-0441-E34CEFA5E055}|TheOfficeButton.csproj|C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{840C7423-55C9-3144-0441-E34CEFA5E055}|TheOfficeButton.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -59,15 +59,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Form1.cs [Projeto]",
+              "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T19:29:08.743Z",
               "IsPinned": true,
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -78,8 +78,7 @@
               "ToolTip": "C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\TheOfficeButton.csproj",
               "RelativeToolTip": "TheOfficeButton.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-26T19:46:16.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T19:46:16.407Z"
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwCgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-26T18:32:00.835Z",
               "EditorCaption": ""
@@ -104,8 +103,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:29:31.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:29:31.025Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "ToolTip": "C:\\Users\\rafael.souza\\Desktop\\TheOfficeButton\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-06-26T18:29:29.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:29:29.893Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-26T18:29:10.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:29:10.082Z"
             },
             {
               "$type": "Document",
@@ -142,8 +138,7 @@
               "RelativeToolTip": "TheOfficeButton.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-26T18:28:45.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T18:28:45.118Z"
             }
           ]
         }
