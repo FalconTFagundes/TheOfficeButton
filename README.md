@@ -1,4 +1,10 @@
 ## Comical button that plays the theme music from The Office.
+### Executável em:
+
+```bash
+C:\Users\rafael.souza\Desktop\TheOfficeButton\bin\Debug\net8.0-windows\TheOfficeButton.exe
+```
+
 ### Smile :)
 ### Smile :)
 ### Smile :)
