@@ -2,7 +2,7 @@
 ### Executável em:
 
 ```bash
-C:\Users\rafael.souza\Desktop\TheOfficeButton\bin\Debug\net8.0-windows\TheOfficeButton.exe
+TheOfficeButton\bin\Debug\net8.0-windows\TheOfficeButton.exe
 ```
 
 ### Smile :)
